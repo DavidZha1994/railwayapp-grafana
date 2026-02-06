@@ -2,7 +2,7 @@
 
 Deploy Grafana OSS to Railway with one click. PostgreSQL auto-provisioned — dashboards, data sources, and alerts persist across every redeploy.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/sJqbqW)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/k4Nh-4)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/yzha)
 
